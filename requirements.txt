@@ -2,4 +2,4 @@ flask
 flask-cors
 g4f
 gunicorn
-requests
+request
