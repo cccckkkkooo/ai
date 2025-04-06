@@ -2,4 +2,4 @@ flask
 flask-cors
 g4f
 gunicorn
-pip install -U g4f
+-U g4f
