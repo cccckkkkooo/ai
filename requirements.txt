@@ -2,3 +2,4 @@ flask
 flask-cors
 g4f
 gunicorn
+New g4f version: 0.5.0.3 (current: 0.5.0.2) | pip install -U g4f
